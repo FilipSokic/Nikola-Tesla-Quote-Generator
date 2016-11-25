@@ -1,0 +1,26 @@
+<style type="text/css">
+h1 {
+	color: #EAFFD0;
+	font-size: 65px;
+	margin-top: 2%
+
+}
+h2 {
+	text-align: left;
+	margin-right: 90%;
+	font-size: 30px;
+	color: #EAFFD0;
+}
+a {
+	color: inherit;
+}
+body {
+	background-color: black;
+	font-family: "Elephant";
+	color: white;
+	text-align: center;
+	background-image:url('http://www.imgbase.info/images/safe-wallpapers/miscellaneous/1_other_wallpapers/45638_1_other_wallpapers_nikola_tesla.jpg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
