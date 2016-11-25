@@ -8,7 +8,7 @@ h1 {
 h2 {
 	text-align: left;
 	margin-right: 90%;
-	font-size: 30px;
+	font-size: 20px;
 	color: #EAFFD0;
 }
 a {
@@ -23,4 +23,29 @@ body {
     background-attachment:fixed;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+button {
+    
+	 display: inline-block;
+  padding: 5px 10px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #F0D43A;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 9px #999;
+  margin-top: 5%
+}
+
+button:hover {background-color: #F0D43A}
+
+button:active {
+  background-color: #F0D43A;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
